@@ -1,0 +1,15 @@
+{
+  "name": "dRoles",
+  "version": "0.1.0",
+  "description": "Roles Discord Bot",
+  "main": "bot.js",
+  "author": "SuperDizor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperDizor/droles.git"
+  },
+  "license": "(ISC)",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
